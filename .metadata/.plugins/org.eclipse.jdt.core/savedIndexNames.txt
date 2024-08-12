@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\mtjma\OneDrive\Documents\UMichD\Summer 2024\CIS 275\Software\lab10Masters\.metadata\.plugins\org.eclipse.jdt.core
+1562107116.index
+1865797976.index
+2782721049.index
+1191621357.index
